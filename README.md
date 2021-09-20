@@ -1,5 +1,5 @@
 
-# taskmaster-pro
+# Taskmaster-Pro
 
-# Description
+## Description
 Expand an existing task-management application
